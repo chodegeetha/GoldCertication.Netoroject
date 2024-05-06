@@ -1,0 +1,17 @@
+
+<div class="card">
+  <form class="login">
+    <h1>Register</h1>
+    <div class="form-group">
+      <label for="Name">UserName <span style="color:red">*</span></label>
+      <input type="text" class="form-control" id="Name" name="Name" [(ngModel)]="SignUp.userName" required>
+      <label for="Email">Email<span style="color:red">*</span></label>
+      <input type="text" class="form-control" id="Email" name="Email" [(ngModel)]="SignUp.email" required>
+      <label for="Password">Password <span style="color:red">*</span></label>
+      <input type="password" id="Password" class="form-control" name="Password" [(ngModel)]="SignUp.password" required>
+      <label for="confirmpassword">ReConfirmPassword <span style="color:red">*</span></label>
+      <input type="password" id=" confirmpassword" class="form-control" name=" confirmpassword" [(ngModel)]="confirmpassword" required>
+      <button type="submit" (click)="SignUpUser()">Register</button>
+    </div>
+  </form>
+</div>

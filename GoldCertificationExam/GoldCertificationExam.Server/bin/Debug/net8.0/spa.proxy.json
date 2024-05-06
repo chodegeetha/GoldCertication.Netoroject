@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\..\\goldcertificationexam.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

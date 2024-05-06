@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "jChPU8rGYwFhquoXLMuipFBx4ZhG5xtud5K67QYyq28=",
+  "Source": "GoldCertificationExam.Server",
+  "BasePath": "_content/GoldCertificationExam.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\goldcertificationexam.client\\goldcertificationexam.client.esproj",
+      "Version": 2,
+      "Source": "goldcertificationexam.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

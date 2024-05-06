@@ -1,0 +1,814 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}|goldcertificationexam.client\\goldcertificationexam.client.esproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.client\\src\\app\\admin-page\\admin-page.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}|goldcertificationexam.client\\goldcertificationexam.client.esproj|solutionrelative:goldcertificationexam.client\\src\\app\\admin-page\\admin-page.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}|goldcertificationexam.client\\goldcertificationexam.client.esproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.client\\src\\app\\signup\\signup.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}|goldcertificationexam.client\\goldcertificationexam.client.esproj|solutionrelative:goldcertificationexam.client\\src\\app\\signup\\signup.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}|goldcertificationexam.client\\goldcertificationexam.client.esproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.client\\src\\app\\login\\login.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}|goldcertificationexam.client\\goldcertificationexam.client.esproj|solutionrelative:goldcertificationexam.client\\src\\app\\login\\login.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}|goldcertificationexam.client\\goldcertificationexam.client.esproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.client\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}|goldcertificationexam.client\\goldcertificationexam.client.esproj|solutionrelative:goldcertificationexam.client\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}|goldcertificationexam.client\\goldcertificationexam.client.esproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.client\\src\\app\\admin-page\\admin-page.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}|goldcertificationexam.client\\goldcertificationexam.client.esproj|solutionrelative:goldcertificationexam.client\\src\\app\\admin-page\\admin-page.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}|goldcertificationexam.client\\goldcertificationexam.client.esproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.client\\src\\app\\book-order\\book-order.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}|goldcertificationexam.client\\goldcertificationexam.client.esproj|solutionrelative:goldcertificationexam.client\\src\\app\\book-order\\book-order.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}|goldcertificationexam.client\\goldcertificationexam.client.esproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.client\\src\\app\\admin-page\\admin-page.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}|goldcertificationexam.client\\goldcertificationexam.client.esproj|solutionrelative:goldcertificationexam.client\\src\\app\\admin-page\\admin-page.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.server\\controllers\\homecontrollercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|solutionrelative:goldcertificationexam.server\\controllers\\homecontrollercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.server\\controllers\\orderbookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|solutionrelative:goldcertificationexam.server\\controllers\\orderbookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.server\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|solutionrelative:goldcertificationexam.server\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.server\\repositories\\bookrepositoryimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|solutionrelative:goldcertificationexam.server\\repositories\\bookrepositoryimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}|goldcertificationexam.client\\goldcertificationexam.client.esproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.client\\src\\app\\admin-page\\admin-page.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}|goldcertificationexam.client\\goldcertificationexam.client.esproj|solutionrelative:goldcertificationexam.client\\src\\app\\admin-page\\admin-page.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.server\\repositories\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|solutionrelative:goldcertificationexam.server\\repositories\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|solutionrelative:goldcertificationexam.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|solutionrelative:goldcertificationexam.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}|goldcertificationexam.client\\goldcertificationexam.client.esproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}|goldcertificationexam.client\\goldcertificationexam.client.esproj|solutionrelative:goldcertificationexam.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}|goldcertificationexam.client\\goldcertificationexam.client.esproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}|goldcertificationexam.client\\goldcertificationexam.client.esproj|solutionrelative:goldcertificationexam.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}|goldcertificationexam.client\\goldcertificationexam.client.esproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.client\\src\\app\\signup\\signup.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}|goldcertificationexam.client\\goldcertificationexam.client.esproj|solutionrelative:goldcertificationexam.client\\src\\app\\signup\\signup.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}|goldcertificationexam.client\\goldcertificationexam.client.esproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.client\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}|goldcertificationexam.client\\goldcertificationexam.client.esproj|solutionrelative:goldcertificationexam.client\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}|goldcertificationexam.client\\goldcertificationexam.client.esproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.client\\src\\app\\book-order\\book-order.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}|goldcertificationexam.client\\goldcertificationexam.client.esproj|solutionrelative:goldcertificationexam.client\\src\\app\\book-order\\book-order.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}|goldcertificationexam.client\\goldcertificationexam.client.esproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.client\\src\\app\\book-order\\book-order.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}|goldcertificationexam.client\\goldcertificationexam.client.esproj|solutionrelative:goldcertificationexam.client\\src\\app\\book-order\\book-order.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}|goldcertificationexam.client\\goldcertificationexam.client.esproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}|goldcertificationexam.client\\goldcertificationexam.client.esproj|solutionrelative:goldcertificationexam.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.server\\models\\ingredients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|solutionrelative:goldcertificationexam.server\\models\\ingredients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}|goldcertificationexam.client\\goldcertificationexam.client.esproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}|goldcertificationexam.client\\goldcertificationexam.client.esproj|solutionrelative:goldcertificationexam.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.server\\models\\packages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|solutionrelative:goldcertificationexam.server\\models\\packages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.server\\models\\bookingorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|solutionrelative:goldcertificationexam.server\\models\\bookingorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|solutionrelative:goldcertificationexam.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.server\\bookordermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|solutionrelative:goldcertificationexam.server\\bookordermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.server\\requestmodels\\bookorderrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|solutionrelative:goldcertificationexam.server\\requestmodels\\bookorderrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|solutionrelative:goldcertificationexam.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.server\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|solutionrelative:goldcertificationexam.server\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.server\\goldcertificationexam.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|solutionrelative:goldcertificationexam.server\\goldcertificationexam.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.server\\models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|solutionrelative:goldcertificationexam.server\\models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.server\\repositories\\authrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|solutionrelative:goldcertificationexam.server\\repositories\\authrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}|goldcertificationexam.client\\goldcertificationexam.client.esproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.client\\src\\app\\auth.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}|goldcertificationexam.client\\goldcertificationexam.client.esproj|solutionrelative:goldcertificationexam.client\\src\\app\\auth.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}|goldcertificationexam.client\\goldcertificationexam.client.esproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.client\\src\\app\\signup\\signup.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}|goldcertificationexam.client\\goldcertificationexam.client.esproj|solutionrelative:goldcertificationexam.client\\src\\app\\signup\\signup.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.server\\authmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|solutionrelative:goldcertificationexam.server\\authmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.server\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|solutionrelative:goldcertificationexam.server\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.server\\authentication\\jwttokengeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|solutionrelative:goldcertificationexam.server\\authentication\\jwttokengeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.server\\models\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|solutionrelative:goldcertificationexam.server\\models\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.server\\requestmodels\\loginrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|solutionrelative:goldcertificationexam.server\\requestmodels\\loginrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.server\\requestmodels\\authrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|solutionrelative:goldcertificationexam.server\\requestmodels\\authrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.server\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|solutionrelative:goldcertificationexam.server\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.server\\models\\dishes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|solutionrelative:goldcertificationexam.server\\models\\dishes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.server\\models\\menus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|solutionrelative:goldcertificationexam.server\\models\\menus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.server\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|solutionrelative:goldcertificationexam.server\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|solutionrelative:goldcertificationexam.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|c:\\users\\himaja_geetha\\documents\\github\\dotnet_training\\dotnet_training\\codes\\1-3-2024\\goldcertificationexam\\goldcertificationexam.server\\goldcertificationexam.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0285E284-61CB-4EBA-9516-4BFD6382A921}|GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj|solutionrelative:goldcertificationexam.server\\goldcertificationexam.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login.component.html",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\goldcertificationexam.client\\src\\app\\login\\login.component.html",
+              "RelativeDocumentMoniker": "goldcertificationexam.client\\src\\app\\login\\login.component.html",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\goldcertificationexam.client\\src\\app\\login\\login.component.html",
+              "RelativeToolTip": "goldcertificationexam.client\\src\\app\\login\\login.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-06T09:15:38.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.component.css",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\goldcertificationexam.client\\src\\app\\login\\login.component.css",
+              "RelativeDocumentMoniker": "goldcertificationexam.client\\src\\app\\login\\login.component.css",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\goldcertificationexam.client\\src\\app\\login\\login.component.css",
+              "RelativeToolTip": "goldcertificationexam.client\\src\\app\\login\\login.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-06T09:16:01.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "signup.component.css",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\goldcertificationexam.client\\src\\app\\signup\\signup.component.css",
+              "RelativeDocumentMoniker": "goldcertificationexam.client\\src\\app\\signup\\signup.component.css",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\goldcertificationexam.client\\src\\app\\signup\\signup.component.css",
+              "RelativeToolTip": "goldcertificationexam.client\\src\\app\\signup\\signup.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-06T07:58:38.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "admin-page.component.html",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\goldcertificationexam.client\\src\\app\\admin-page\\admin-page.component.html",
+              "RelativeDocumentMoniker": "goldcertificationexam.client\\src\\app\\admin-page\\admin-page.component.html",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\goldcertificationexam.client\\src\\app\\admin-page\\admin-page.component.html",
+              "RelativeToolTip": "goldcertificationexam.client\\src\\app\\admin-page\\admin-page.component.html",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-06T10:01:16.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "admin-page.component.css",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\goldcertificationexam.client\\src\\app\\admin-page\\admin-page.component.css",
+              "RelativeDocumentMoniker": "goldcertificationexam.client\\src\\app\\admin-page\\admin-page.component.css",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\goldcertificationexam.client\\src\\app\\admin-page\\admin-page.component.css",
+              "RelativeToolTip": "goldcertificationexam.client\\src\\app\\admin-page\\admin-page.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-06T14:53:15.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "book-order.component.css",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\goldcertificationexam.client\\src\\app\\book-order\\book-order.component.css",
+              "RelativeDocumentMoniker": "goldcertificationexam.client\\src\\app\\book-order\\book-order.component.css",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\goldcertificationexam.client\\src\\app\\book-order\\book-order.component.css",
+              "RelativeToolTip": "goldcertificationexam.client\\src\\app\\book-order\\book-order.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-06T12:55:08.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "admin-page.component.ts",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\goldcertificationexam.client\\src\\app\\admin-page\\admin-page.component.ts",
+              "RelativeDocumentMoniker": "goldcertificationexam.client\\src\\app\\admin-page\\admin-page.component.ts",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\goldcertificationexam.client\\src\\app\\admin-page\\admin-page.component.ts",
+              "RelativeToolTip": "goldcertificationexam.client\\src\\app\\admin-page\\admin-page.component.ts",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-06T15:36:36.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderBookingController.cs",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Controllers\\OrderBookingController.cs",
+              "RelativeDocumentMoniker": "GoldCertificationExam.Server\\Controllers\\OrderBookingController.cs",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Controllers\\OrderBookingController.cs",
+              "RelativeToolTip": "GoldCertificationExam.Server\\Controllers\\OrderBookingController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAYwF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:15:15.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeControllercs.cs",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Controllers\\HomeControllercs.cs",
+              "RelativeDocumentMoniker": "GoldCertificationExam.Server\\Controllers\\HomeControllercs.cs",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Controllers\\HomeControllercs.cs",
+              "RelativeToolTip": "GoldCertificationExam.Server\\Controllers\\HomeControllercs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T15:24:32.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "GoldCertificationExam.Server\\Repositories\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "GoldCertificationExam.Server\\Repositories\\IBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T10:21:19.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookRepositoryImp.cs",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Repositories\\BookRepositoryImp.cs",
+              "RelativeDocumentMoniker": "GoldCertificationExam.Server\\Repositories\\BookRepositoryImp.cs",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Repositories\\BookRepositoryImp.cs",
+              "RelativeToolTip": "GoldCertificationExam.Server\\Repositories\\BookRepositoryImp.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAmwEQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T10:20:50.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "GoldCertificationExam.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "GoldCertificationExam.Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T15:35:49.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "admin-page.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\goldcertificationexam.client\\src\\app\\admin-page\\admin-page.component.spec.ts",
+              "RelativeDocumentMoniker": "goldcertificationexam.client\\src\\app\\admin-page\\admin-page.component.spec.ts",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\goldcertificationexam.client\\src\\app\\admin-page\\admin-page.component.spec.ts",
+              "RelativeToolTip": "goldcertificationexam.client\\src\\app\\admin-page\\admin-page.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-06T15:36:18.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Repositories\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "GoldCertificationExam.Server\\Repositories\\IAuthRepository.cs",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Repositories\\IAuthRepository.cs",
+              "RelativeToolTip": "GoldCertificationExam.Server\\Repositories\\IAuthRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAnwA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T07:11:44.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "GoldCertificationExam.Server\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "GoldCertificationExam.Server\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAArwAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T07:12:44.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "signup.component.ts",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\goldcertificationexam.client\\src\\app\\signup\\signup.component.ts",
+              "RelativeDocumentMoniker": "goldcertificationexam.client\\src\\app\\signup\\signup.component.ts",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\goldcertificationexam.client\\src\\app\\signup\\signup.component.ts",
+              "RelativeToolTip": "goldcertificationexam.client\\src\\app\\signup\\signup.component.ts",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAwBkAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-06T07:46:03.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\goldcertificationexam.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "goldcertificationexam.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\goldcertificationexam.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "goldcertificationexam.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-06T08:01:18.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "login.component.ts",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\goldcertificationexam.client\\src\\app\\login\\login.component.ts",
+              "RelativeDocumentMoniker": "goldcertificationexam.client\\src\\app\\login\\login.component.ts",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\goldcertificationexam.client\\src\\app\\login\\login.component.ts",
+              "RelativeToolTip": "goldcertificationexam.client\\src\\app\\login\\login.component.ts",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBQAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-06T09:15:17.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\goldcertificationexam.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "goldcertificationexam.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\goldcertificationexam.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "goldcertificationexam.client\\src\\app\\app.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-06T08:03:22.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "book-order.component.html",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\goldcertificationexam.client\\src\\app\\book-order\\book-order.component.html",
+              "RelativeDocumentMoniker": "goldcertificationexam.client\\src\\app\\book-order\\book-order.component.html",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\goldcertificationexam.client\\src\\app\\book-order\\book-order.component.html",
+              "RelativeToolTip": "goldcertificationexam.client\\src\\app\\book-order\\book-order.component.html",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-06T10:11:59.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "book-order.component.ts",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\goldcertificationexam.client\\src\\app\\book-order\\book-order.component.ts",
+              "RelativeDocumentMoniker": "goldcertificationexam.client\\src\\app\\book-order\\book-order.component.ts",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\goldcertificationexam.client\\src\\app\\book-order\\book-order.component.ts",
+              "RelativeToolTip": "goldcertificationexam.client\\src\\app\\book-order\\book-order.component.ts",
+              "ViewState": "AQIAADsAAAAAAAAAAAAYwGgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-06T11:48:06.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\goldcertificationexam.client\\src\\index.html",
+              "RelativeDocumentMoniker": "goldcertificationexam.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\goldcertificationexam.client\\src\\index.html",
+              "RelativeToolTip": "goldcertificationexam.client\\src\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-06T09:21:02.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Ingredients.cs",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Models\\Ingredients.cs",
+              "RelativeDocumentMoniker": "GoldCertificationExam.Server\\Models\\Ingredients.cs",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Models\\Ingredients.cs",
+              "RelativeToolTip": "GoldCertificationExam.Server\\Models\\Ingredients.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T06:01:55.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\goldcertificationexam.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "goldcertificationexam.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\goldcertificationexam.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "goldcertificationexam.client\\src\\app\\app.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-06T08:01:38.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Packages.cs",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Models\\Packages.cs",
+              "RelativeDocumentMoniker": "GoldCertificationExam.Server\\Models\\Packages.cs",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Models\\Packages.cs",
+              "RelativeToolTip": "GoldCertificationExam.Server\\Models\\Packages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T06:00:54.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "GoldCertificationExam.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\appsettings.json",
+              "RelativeToolTip": "GoldCertificationExam.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T06:46:03.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BookingOrder.cs",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Models\\BookingOrder.cs",
+              "RelativeDocumentMoniker": "GoldCertificationExam.Server\\Models\\BookingOrder.cs",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Models\\BookingOrder.cs",
+              "RelativeToolTip": "GoldCertificationExam.Server\\Models\\BookingOrder.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T10:24:19.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BookOrderMapper.cs",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\BookOrderMapper.cs",
+              "RelativeDocumentMoniker": "GoldCertificationExam.Server\\BookOrderMapper.cs",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\BookOrderMapper.cs",
+              "RelativeToolTip": "GoldCertificationExam.Server\\BookOrderMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:06:54.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BookOrderRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\RequestModels\\BookOrderRequestModel.cs",
+              "RelativeDocumentMoniker": "GoldCertificationExam.Server\\RequestModels\\BookOrderRequestModel.cs",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\RequestModels\\BookOrderRequestModel.cs",
+              "RelativeToolTip": "GoldCertificationExam.Server\\RequestModels\\BookOrderRequestModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:05:14.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Program.cs",
+              "RelativeDocumentMoniker": "GoldCertificationExam.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Program.cs",
+              "RelativeToolTip": "GoldCertificationExam.Server\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABYAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T06:49:14.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Contexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "GoldCertificationExam.Server\\Contexts\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Contexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "GoldCertificationExam.Server\\Contexts\\ApplicationDbContext.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAmwBkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:58:11.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Models\\Customers.cs",
+              "RelativeDocumentMoniker": "GoldCertificationExam.Server\\Models\\Customers.cs",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Models\\Customers.cs",
+              "RelativeToolTip": "GoldCertificationExam.Server\\Models\\Customers.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAewAgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T06:02:48.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GoldCertificationExam.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj",
+              "RelativeDocumentMoniker": "GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj",
+              "RelativeToolTip": "GoldCertificationExam.Server\\GoldCertificationExam.Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-06T05:55:31.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AuthRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Repositories\\AuthRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "GoldCertificationExam.Server\\Repositories\\AuthRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Repositories\\AuthRepositoryImpl.cs",
+              "RelativeToolTip": "GoldCertificationExam.Server\\Repositories\\AuthRepositoryImpl.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAowBcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T07:11:02.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "auth.service.ts",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\goldcertificationexam.client\\src\\app\\auth.service.ts",
+              "RelativeDocumentMoniker": "goldcertificationexam.client\\src\\app\\auth.service.ts",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\goldcertificationexam.client\\src\\app\\auth.service.ts",
+              "RelativeToolTip": "goldcertificationexam.client\\src\\app\\auth.service.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-06T09:41:53.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "signup.component.html",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\goldcertificationexam.client\\src\\app\\signup\\signup.component.html",
+              "RelativeDocumentMoniker": "goldcertificationexam.client\\src\\app\\signup\\signup.component.html",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\goldcertificationexam.client\\src\\app\\signup\\signup.component.html",
+              "RelativeToolTip": "goldcertificationexam.client\\src\\app\\signup\\signup.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-06T07:54:47.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Models\\Roles.cs",
+              "RelativeDocumentMoniker": "GoldCertificationExam.Server\\Models\\Roles.cs",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Models\\Roles.cs",
+              "RelativeToolTip": "GoldCertificationExam.Server\\Models\\Roles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T06:00:24.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AuthMapper.cs",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\AuthMapper.cs",
+              "RelativeDocumentMoniker": "GoldCertificationExam.Server\\AuthMapper.cs",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\AuthMapper.cs",
+              "RelativeToolTip": "GoldCertificationExam.Server\\AuthMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T07:23:09.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Models\\UserRoles.cs",
+              "RelativeDocumentMoniker": "GoldCertificationExam.Server\\Models\\UserRoles.cs",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Models\\UserRoles.cs",
+              "RelativeToolTip": "GoldCertificationExam.Server\\Models\\UserRoles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T06:00:05.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "JwtTokenGeneration.cs",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Authentication\\JwtTokenGeneration.cs",
+              "RelativeDocumentMoniker": "GoldCertificationExam.Server\\Authentication\\JwtTokenGeneration.cs",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Authentication\\JwtTokenGeneration.cs",
+              "RelativeToolTip": "GoldCertificationExam.Server\\Authentication\\JwtTokenGeneration.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:10:30.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LoginRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\RequestModels\\LoginRequestModel.cs",
+              "RelativeDocumentMoniker": "GoldCertificationExam.Server\\RequestModels\\LoginRequestModel.cs",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\RequestModels\\LoginRequestModel.cs",
+              "RelativeToolTip": "GoldCertificationExam.Server\\RequestModels\\LoginRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T07:36:03.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AuthRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\RequestModels\\AuthRequestModel.cs",
+              "RelativeDocumentMoniker": "GoldCertificationExam.Server\\RequestModels\\AuthRequestModel.cs",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\RequestModels\\AuthRequestModel.cs",
+              "RelativeToolTip": "GoldCertificationExam.Server\\RequestModels\\AuthRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T07:22:06.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "GoldCertificationExam.Server\\Models\\Orders.cs",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Models\\Orders.cs",
+              "RelativeToolTip": "GoldCertificationExam.Server\\Models\\Orders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T06:02:22.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Dishes.cs",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Models\\Dishes.cs",
+              "RelativeDocumentMoniker": "GoldCertificationExam.Server\\Models\\Dishes.cs",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Models\\Dishes.cs",
+              "RelativeToolTip": "GoldCertificationExam.Server\\Models\\Dishes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T06:01:28.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Menus.cs",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Models\\Menus.cs",
+              "RelativeDocumentMoniker": "GoldCertificationExam.Server\\Models\\Menus.cs",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Models\\Menus.cs",
+              "RelativeToolTip": "GoldCertificationExam.Server\\Models\\Menus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T06:01:12.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Models\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "GoldCertificationExam.Server\\Models\\OrderDetails.cs",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Models\\OrderDetails.cs",
+              "RelativeToolTip": "GoldCertificationExam.Server\\Models\\OrderDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T06:03:17.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Models\\User.cs",
+              "RelativeDocumentMoniker": "GoldCertificationExam.Server\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\Models\\User.cs",
+              "RelativeToolTip": "GoldCertificationExam.Server\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:59:42.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "GoldCertificationExam.Server.http",
+              "DocumentMoniker": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\GoldCertificationExam.Server.http",
+              "RelativeDocumentMoniker": "GoldCertificationExam.Server\\GoldCertificationExam.Server.http",
+              "ToolTip": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\1-3-2024\\GoldCertificationExam\\GoldCertificationExam.Server\\GoldCertificationExam.Server.http",
+              "RelativeToolTip": "GoldCertificationExam.Server\\GoldCertificationExam.Server.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-06T05:55:10.635Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

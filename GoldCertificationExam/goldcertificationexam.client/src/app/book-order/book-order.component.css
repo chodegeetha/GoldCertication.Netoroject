@@ -1,0 +1,28 @@
+.card {
+  width: 400px;
+  height: auto; 
+  margin: 30px auto;
+  padding: 20px;
+}
+
+.form-group {
+  text-align: left;
+  margin-bottom: 5px; 
+}
+
+.form-control {
+  
+}
+
+button {
+  margin: 10px auto;
+  background-color: blue;
+  border-block-color: aliceblue;
+  width: 100%;
+  color: White;
+}
+
+.form-control-full {
+  width: 100%;
+  height:100%;
+}

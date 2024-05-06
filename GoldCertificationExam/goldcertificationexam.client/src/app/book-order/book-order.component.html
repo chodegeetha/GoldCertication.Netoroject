@@ -1,0 +1,47 @@
+
+<div class="card">
+  <form (submit)="OrderSubmission()">
+    <h2>Book your Order</h2><br/>
+    <div class="form-group">
+      <label for="name" >Name:<span style="color: red;">*</span></label><br>
+      <input type="text" id="name" class="form-control" name="name" [(ngModel)]="OrderBooking.name" required>
+
+      <label for="mobile">Mobile Number:<span style="color: red;">*</span></label><br>
+      <input type="tel" id="mobile" class="form-control" name="mobile" [(ngModel)]="OrderBooking.mobileNumber" required>
+
+      <label for="email">Email:<span style="color: red;">*</span></label><br>
+      <input type="email" id="email" class="form-control" name="email" [(ngModel)]="OrderBooking.email" required>
+
+      <label for="guests">Number of Guests:<span style="color: red;">*</span></label><br>
+      <select id="guests" class="form-control" name="guests" [(ngModel)]="OrderBooking.guests">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+      </select>
+
+      <label for="date">Date:<span style="color: red;">*</span></label><br>
+      <input type="date" id="date" name="date" [(ngModel)]="OrderBooking.created" required class="form-control-full">
+
+      <label for="Package">Packages:<span style="color: red;">*</span></label>
+      <select id="Package" name="Package" [(ngModel)]="OrderBooking.packageId" style="width: 100%" class="form-control-full">
+        <option *ngFor="let package of packages" [value]="package.packageId">{{ package.packageName }}</option>
+      </select>
+
+      <label for="location">Location:<span style="color: red;">*</span></label><br>
+      <input type="text" id="location" class="form-control" name="location" [(ngModel)]="OrderBooking.location" required>
+
+      <label for="Food">Eating Mode:<span style="color: red;">*</span></label><br>
+      <select id="Food" class="form-control" name="Food" [(ngModel)]="OrderBooking.eatingMode">
+        <option value="Lunch">Lunch</option>
+        <option value="Breakfast">Breakfast</option>
+        <option value="Dinner">Dinner</option>
+      </select>
+
+      <label for="Message">Message:<span style="color: red;">*</span></label><br>
+      <input type="text" id="Message" class="form-control" name="Message" [(ngModel)]="OrderBooking.message" required>
+
+      <button type="submit">Submit</button>
+    </div>
+  </form>
+</div>
+

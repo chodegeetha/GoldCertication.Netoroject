@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldCertificationExam.Server", "GoldCertificationExam.Server\GoldCertificationExam.Server.csproj", "{0285E284-61CB-4EBA-9516-4BFD6382A921}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "goldcertificationexam.client", "goldcertificationexam.client\goldcertificationexam.client.esproj", "{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0285E284-61CB-4EBA-9516-4BFD6382A921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0285E284-61CB-4EBA-9516-4BFD6382A921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0285E284-61CB-4EBA-9516-4BFD6382A921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0285E284-61CB-4EBA-9516-4BFD6382A921}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24A82E05-A85A-4A83-9BC9-BF593D6C95BA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6E21E1F-BC44-4588-A04F-115090247057}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+<div class="card">
+  <form class="login">
+    <h1>Login</h1>
+    <div class="form-group">
+      <label for="Email">
+        Email <span style="color: red;">*</span>
+      </label>
+      <input type="text" id="Email" name="Email" class="form-control" [(ngModel)]="Login.Email" required />
+      <label for="Password">Password <span style="color: red;">*</span></label>
+      <input type="password" id="Password" name="Password" class="form-control" [(ngModel)]="Login.Password" required />
+      <button type="submit" (click)="LoginUser()">Login</button>
+    </div>
+  </form>
+</div>
